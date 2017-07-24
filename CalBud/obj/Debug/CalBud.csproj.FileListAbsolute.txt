@@ -4,3 +4,9 @@ c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\bin\Debug\C
 c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\obj\Debug\CalBud.csprojResolveAssemblyReference.cache
 c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\obj\Debug\CalBud.exe
 c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\obj\Debug\CalBud.pdb
+C:\Users\douglas\Documents\GitHub\calforcast\CalBud\obj\Debug\CalBud.csprojResolveAssemblyReference.cache
+C:\Users\douglas\Documents\GitHub\calforcast\CalBud\obj\Debug\CalBud.exe
+C:\Users\douglas\Documents\GitHub\calforcast\CalBud\obj\Debug\CalBud.pdb
+C:\Users\douglas\Documents\GitHub\calforcast\CalBud\bin\Debug\CalBud.exe.config
+C:\Users\douglas\Documents\GitHub\calforcast\CalBud\bin\Debug\CalBud.exe
+C:\Users\douglas\Documents\GitHub\calforcast\CalBud\bin\Debug\CalBud.pdb

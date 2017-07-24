@@ -1,0 +1,1 @@
+1;121.73;Hanover;True:2;323;Citizens;True:2;58;Cap9481;True:2;358;Wells;False:2;70;TWC;True:3;84;Cap3971;True:5;165;BPU;False:8;60;NatFuel;True:10;77;Cap7090;True:11;62;UHEAA;True:13;50;AdWords;True:13;70;Verizon;True:17;150;IRS;True:19;30;Planet;True:19;50;NelNet;True:19;150;Amazon;True:19;25;Cap KC;True:29;70;Big Lots;True:
