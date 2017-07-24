@@ -1,0 +1,6 @@
+c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\bin\Debug\CalBud.exe.config
+c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\bin\Debug\CalBud.exe
+c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\bin\Debug\CalBud.pdb
+c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\obj\Debug\CalBud.csprojResolveAssemblyReference.cache
+c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\obj\Debug\CalBud.exe
+c:\users\us21061\documents\visual studio 2017\Projects\CalBud\CalBud\obj\Debug\CalBud.pdb
